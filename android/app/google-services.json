@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "652753815135",
+    "project_id": "flutter-social-app-4b1a3",
+    "storage_bucket": "flutter-social-app-4b1a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652753815135:android:60c261c9f3869c997c3dea",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652753815135-lrbnlnk9o81pqtro4mbmvuvtuok1csqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled1",
+            "certificate_hash": "bb2c6f0526db7c16ab567a02223cc783fac23c74"
+          }
+        },
+        {
+          "client_id": "652753815135-bns6lobe5af2os0tg522afofuirj2nqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8lcxAHYMrGuUx6XHzoTi24Lb9nU3VQoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652753815135-bns6lobe5af2os0tg522afofuirj2nqt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652753815135-ajkcn6l7gjud0uo2tc515rtk2daa2i8p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bmiCalculator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
